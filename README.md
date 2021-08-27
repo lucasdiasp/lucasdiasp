@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Eu sou o Lucas Dias!
+<div>
+Estudante de tecnologia e entusiasmado com todas as facilidades proporcionadas por ela!
+</div>
+<br>
 
-<!--
-**lucasdiasp/lucasdiasp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdiasp&show_icons=true&theme=prussian) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdiasp&layout=compact&theme=prussian)](https://github.com/lucasdiasp/github-readme-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block"><br>
+  
+ 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+<i class="devicon-mysql-plain"></i>
+  
